@@ -1,0 +1,26 @@
+{
+    "title" : "JDK1.8的部分新特性",
+    "author" : "张虎翼",
+    "description" : "JDK1.8的部分新特性",
+    "language" : "zh-hans",
+    "links" : {
+        "gitbook" : true
+    },
+    "plugins": [
+		"splitter",
+		"sitemap",
+		"prism",
+		"expandable-chapters",
+		"github",
+		"-sharing",
+		"code"
+	],
+	"pluginsConfig": {
+		"github": {
+			"url": "https://github.com/huge0612/rpc-book"
+		},
+		"sitemap": {
+			"hostname": "https://github.com/huge0612/rpc-book"
+		}
+	}
+}
