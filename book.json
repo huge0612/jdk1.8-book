@@ -17,10 +17,10 @@
 	],
 	"pluginsConfig": {
 		"github": {
-			"url": "https://github.com/huge0612/rpc-book"
+			"url": "https://github.com/huge0612/jdk1.8-book"
 		},
 		"sitemap": {
-			"hostname": "https://github.com/huge0612/rpc-book"
+			"hostname": "https://github.com/huge0612/jdk1.8-book"
 		}
 	}
 }
